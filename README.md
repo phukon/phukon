@@ -1,4 +1,4 @@
-![2](https://github.com/phukon/phukon/assets/60285613/89b7fb26-93c7-4a5c-9a8d-1da9d967fa94)
+![banner](https://github.com/phukon/phukon/assets/60285613/baf9e728-67d2-48bf-b95a-33d0579b7926)
 
 <!--
 Resolution - 3522x1170
@@ -18,9 +18,9 @@ Resolution - 3522x1170
     textAlign: 'justify',
   }}
 >
-  <span style={{ marginBottom: '1em', marginLeft: '-151rem'  }}>Hi, I'm Riki</span> 
+  <span style={{ marginBottom: '1em', marginLeft: '-151rem'  }}>Hi, I'm Riki</span>
   <div tw='text-gray-400' style={{ display: 'flex', flexDirection: 'column' }}>
-    I love <span style={{ color: 'black' }}>crafting components for the web.</span> I have been working around frontend technologies & interested in <span  style={{ color: 'black' }}>Design systems and backend engineering.</span>
+    I love <span style={{ color: 'black' }}>crafting components for the web.</span> I have been working around frontend technologies & interested in <span  style={{ color: 'black' }}>Design systems and Backend engineering.</span>
   </div>
 </div>
 
@@ -28,7 +28,7 @@ Resolution - 3522x1170
 
 -->
 <details>
-<summary><p>📜Check out my <a href="https://github.com/phukon/practice?tab=readme-ov-file#my-sandbox-">tutorials</a></p><samp> covers Golang, Typescript, dsa, nerdy topics, etc</samp></summary><br/>
+<summary><p>Expand✨</summary><br/>
 <table>
   <tr>
     <th width="150">CitySort</th>
@@ -90,14 +90,14 @@ Resolution - 3522x1170
 </table>
 </details>
 
-
-
 ---
 
 > [!NOTE]
+>
 > ```bash
-> curl https://rikiphukon.com/pubkey.asc | gpg --import
+> curl https://rikiphukon.com/pubkey.txt | gpg --import
 > ```
+>
 > pgp fingerprint: `C8F6 B585 06C2 C2AD 8728  D045 867C 6C51 7C92 D22D`
-> 
-> <kbd>ctrl</kbd> + <kbd>click!</kbd> > [grab my public key](https://rikiphukon.com/pubkey.asc)
+>
+> <kbd>ctrl</kbd> + <kbd>click!</kbd> > [grab my public key](https://rikiphukon.com/pubkey.txt)
