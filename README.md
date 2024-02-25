@@ -1,4 +1,28 @@
 ![084b62b9-bd42-4956-bbd6-04aa21f44811](https://github.com/phukon/phukon/assets/60285613/04367db3-7245-4f05-b1f8-fbe480fa1230)
+<!-- 
+<div
+  style={{
+    height: '100%',
+    width: '100%',
+    paddingLeft: '8rem',
+    paddingRight: '8rem',
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
+    backgroundColor: '#fff',
+    fontSize: 90,
+    fontWeight: 600,
+    textAlign: 'justify',
+  }}
+>
+  <span style={{ marginBottom: '1em', marginLeft: '-151rem'  }}>Hi, I'm Riki</span> 
+  <div style={{ color: '#c2c2c2', display: 'flex', flexDirection: 'column' }}>
+    I love <span style={{ color: 'black' }}>crafting components for the web.</span> I have been working around frontend technologies & interested in <span  style={{ color: 'black' }}>Design systems and backend engineering.</span>
+  </div>
+</div>
+
+-->
 <details>
 <summary><p>📜Check out my <a href="https://github.com/phukon/practice?tab=readme-ov-file#my-sandbox-">tutorials</a></p><samp> covers Golang, Typescript, dsa, nerdy topics, etc</samp></summary><br/>
 <table>
