@@ -1,5 +1,7 @@
-![084b62b9-bd42-4956-bbd6-04aa21f44811](https://github.com/phukon/phukon/assets/60285613/04367db3-7245-4f05-b1f8-fbe480fa1230)
-<!-- 
+![2](https://github.com/phukon/phukon/assets/60285613/89b7fb26-93c7-4a5c-9a8d-1da9d967fa94)
+
+<!--
+Resolution - 3522x1170
 <div
   style={{
     height: '100%',
@@ -17,10 +19,12 @@
   }}
 >
   <span style={{ marginBottom: '1em', marginLeft: '-151rem'  }}>Hi, I'm Riki</span> 
-  <div style={{ color: '#c2c2c2', display: 'flex', flexDirection: 'column' }}>
+  <div tw='text-gray-400' style={{ display: 'flex', flexDirection: 'column' }}>
     I love <span style={{ color: 'black' }}>crafting components for the web.</span> I have been working around frontend technologies & interested in <span  style={{ color: 'black' }}>Design systems and backend engineering.</span>
   </div>
 </div>
+
+
 
 -->
 <details>
