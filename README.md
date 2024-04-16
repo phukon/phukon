@@ -1,4 +1,4 @@
-![b](https://github.com/phukon/phukon/assets/60285613/656fb30b-6420-4651-8485-659621946ce8)
+![e859ea01-73fa-4ede-be22-199d3e45607e](https://github.com/phukon/phukon/assets/60285613/fadc8357-e5f0-46a3-99a6-2b1ce4f91d90)
 
 <!--
 Resolution - 3522x1170
