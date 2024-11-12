@@ -24,7 +24,8 @@ Resolution - 3522x1170
 </div>
 -->
 ---
-🌱 I'm primarily interested in AI agents, low level programming, and radios.
+
+🌱 AI agents, radios, low level programming, and interaction design
 > [!NOTE]
 >
 > ```bash
