@@ -23,15 +23,18 @@ Resolution - 3522x1170
   </div>
 </div>
 -->
----
-
 🌱 AI agents, radios, low level programming, and interaction design
-> [!NOTE]
->
-> ```bash
-> curl https://rikiphukon.com/pubkey.txt | gpg --import
-> ```
->
-> pgp fingerprint: `C8F6 B585 06C2 C2AD 8728  D045 867C 6C51 7C92 D22D`
->
-> <kbd>ctrl</kbd> + <kbd>click!</kbd> > [grab my public key](https://rikiphukon.com/pubkey.txt)
+```bash
+curl https://rikiphukon.com/pubkey.txt | gpg --import
+```
+pgp fingerprint: [`C8F6 B585 06C2 C2AD 8728  D045 867C 6C51 7C92 D22D`](https://rkph.me/pubkey.txt) < grab my public key <kbd>ctrl</kbd> + <kbd>click!</kbd>
+<details><summary>💣? <--</summary>
+<ul>
+  <li><a href="https://clack.rkph.me">clack</a></li>
+  <li><a href="https://bndr.rkph.me">binary dreams</a></li>
+  <li><a href="https://rkph.me/blog/sourcemaps-codemod">babel and sourcemaps</a></li>
+  <li><a href="https://github.com/phukon/nvim-config">my neovim conf</a></li>
+  <li><a href="https://rkph.me/blog/react-rap">i miss the old <s>kanye</s> react</a></li>
+  <li><a href="https://github.com/phukon/outnumbered?tab=readme-ov-file#outnumbered">a cool game?</a></li>
+</ul>
+</details> 
